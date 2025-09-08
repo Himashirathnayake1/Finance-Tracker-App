@@ -31,6 +31,6 @@ The app provides insightful reports, a user-friendly dashboard, and secure authe
 
 ### 1. Clone the Repository
 ```bash
-git clone [Flutter](https://github.com/Himashirathnayake1/Finance-Tracker-App.git)
+git clone (https://github.com/Himashirathnayake1/Finance-Tracker-App.git)
 cd finance-tracker-app
 
